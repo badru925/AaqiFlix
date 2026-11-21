@@ -1,0 +1,3 @@
+[build]
+  # The site's static files live in this folder, not the repo root
+  publish = "flixx-app-theme"
